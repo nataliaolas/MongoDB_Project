@@ -1,0 +1,503 @@
+{ 
+    "_id" : ObjectId("61cadafe7ee1be5aceae03cb"), 
+    "nazwa" : "Alabama", 
+    "skrot" : "AL", 
+    "powierzchnia" : 131.4, 
+    "ludnosc": 4.599,
+	"stolica": ObjectId("61cad9330ed1e3d24e950ece"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "University of Alabama"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Troy University",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Auburn University"
+        }
+    ], 
+	"liczba hrabstw":NumberInt(67)
+}
+{
+"_id" : ObjectId("61cadafe97736bd985690b63"), 
+    "nazwa" : "Arizona", 
+    "skrot" : "AZ", 
+    "powierzchnia" : 295.3, 
+    "ludnosc": 6.166,
+	"stolica": ObjectId("61cad9338f7b33398e5be36f"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Uniwersytet Arizony"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Arizona State University",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Northern Arizona University"
+        }
+    ], 
+	"liczba hrabstw":NumberInt(15)
+}
+{
+"_id" : ObjectId("61cadafe49eb2369bd80298a"), 
+    "nazwa" : "Arkansas", 
+    "skrot" : "AR", 
+    "powierzchnia" : 137.8, 
+    "ludnosc": 2.811,
+	"stolica": ObjectId("61cad9337859c849a54b3e16"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "University of Arkansas"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Arkansas State University System",
+		},
+    ], 
+	"liczba hrabstw":NumberInt(75)
+}
+{
+"_id" : ObjectId("61cadafe400491a363ada6ca"), 
+    "nazwa" : "Floryda", 
+    "skrot" : "FL", 
+    "powierzchnia" : 170.3, 
+    "ludnosc": 18.090,
+	"stolica": ObjectId("61cad933faa1790303ef4ec2"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : " Uniwersytet Miami"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Uniwersytet Florydy",
+		},
+    ], 
+	"liczba hrabstw":NumberInt(67)
+}
+{
+"_id" : ObjectId("61cadafe7be16ca8a9d13ac5"), 
+    "nazwa" : "Hawaje", 
+    "skrot" : "HI", 
+    "powierzchnia" : 29.3, 
+    "ludnosc": 1.285,
+	"stolica": ObjectId("61cad9336dd0979abf306d21"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Brigham Young University Hawaii"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Brigham Young University Hawaii",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Chaminade University",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(5)
+}
+{
+"_id" : ObjectId("61cadafe527ae0d8b689f8d8"), 
+    "nazwa" : "Illinois", 
+    "skrot" : "IL", 
+    "powierzchnia" : 149.9, 
+    "ludnosc": 12.832,
+	"stolica": ObjectId("61cad933d7fddbd9d717682a"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Northwestern University"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Uniwersytet Chicagowski",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Uniwersytet Illinois w Chicago",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(102)
+}
+{
+"_id" : ObjectId("61cadafeabeae6d997fb30e4"), 
+    "nazwa" : "Indiana", 
+    "skrot" : "IN", 
+    "powierzchnia" : 94.3, 
+    "ludnosc": 6.314,
+	"stolica": ObjectId("61cad933d1f215ebbcbd097e"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Notre Dame University"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Purdue University",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Indiana State University",
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Indiana Institute of Technology",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(92)
+}
+{
+"_id" : ObjectId("61cadafe36e935f311775dac"), 
+    "nazwa" : "Kalifornia", 
+    "skrot" : "CA", 
+    "powierzchnia" : 410.0, 
+    "ludnosc": 36.458,
+	"stolica": ObjectId("61cad933b9e98a8eeee27ab8"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "University of California"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Stanford University",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Biola University",
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "California Institute of Technology",
+		},
+		{
+            "id" : NumberInt(4), 
+            "nazwa" : "California State University",
+		},
+		{
+            "id" : NumberInt(5), 
+            "nazwa" : "University of Southern California",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(58)
+}
+{
+"_id" : ObjectId("61cadafe608e7a382d51ab2b"), 
+    "nazwa" : "Kansas", 
+    "skrot" : "KS", 
+    "powierzchnia" : 213.0, 
+    "ludnosc": 2.764,
+	"stolica": ObjectId("61cad93311f3bfa7c51942ce"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "University of Kansas"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Kansas State University",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(105)
+}
+{
+"_id" : ObjectId("61cadafef4ff0c968f8a2756"), 
+    "nazwa" : "Karolina Południowa", 
+    "skrot" : "SC", 
+    "powierzchnia" : 83.0, 
+    "ludnosc": 4.321,
+	"stolica": ObjectId("61cad933cb9b613a683182d2"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Clemson University"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Allen University",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "The Citadel",
+		},
+    ], 
+	"liczba hrabstw":NumberInt(46)
+}
+{
+"_id" : ObjectId("61cadafe6722ce2dbf151112"), 
+    "nazwa" : "Massachusetts", 
+    "skrot" : "MA", 
+    "powierzchnia" : 27.4, 
+    "ludnosc": 6.437,
+	"stolica": ObjectId("61cad933cb9b613a683182d2"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "University of Harvard"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Massachusetts Institute of Technology",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Boston University",
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Emerson College",
+		},
+		{
+            "id" : NumberInt(4), 
+            "nazwa" : "University of Massachusetts",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(14)
+}
+{
+"_id" : ObjectId("61cadafe5b760f248c0103c7"), 
+    "nazwa" : "Michigan", 
+    "skrot" : "MI", 
+    "powierzchnia" : 253.8, 
+    "ludnosc": 10.096,
+	"stolica": ObjectId("61cad933a42fbef59b25f310"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Michigan State University"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Michigan Technological University",
+		},
+    ], 
+	"liczba hrabstw":NumberInt(83)
+}
+{
+"_id" : ObjectId("61cadafec1ad2c9da1d8d60c"), 
+    "nazwa" : "Nevada", 
+    "skrot" : "NV", 
+    "powierzchnia" : 286.4, 
+    "ludnosc": 2.496,
+	"stolica": ObjectId("61cad933dea65998761a89c7"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Sierra Nevada College"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "University of Nevada",
+		},
+    ], 
+	"liczba hrabstw":NumberInt(16)
+}
+{
+"_id" : ObjectId("61cadafe6329af454dc3036e"), 
+    "nazwa" : "New Jersey", 
+    "skrot" : "NJ", 
+    "powierzchnia" : 20.6, 
+    "ludnosc": 8.725,
+	"stolica": ObjectId("61cad93383729036052d26d0"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Princeton University"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "New Jersey City University",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "New Jersey Institute of Technology",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(21)
+}
+{
+"_id" : ObjectId("61cadafe6b9ae719bd9d2781"), 
+    "nazwa" : "Nowy York", 
+    "skrot" : "NY", 
+    "powierzchnia" : 141.2, 
+    "ludnosc": 19.306,
+	"stolica":  ObjectId("61cad933ad7345aaabc76e48"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Uniwersytet Nowojorski"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Uniwersytet Columbia",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Uniwersytet Rockefellera",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(62)
+}
+{
+"_id" : ObjectId("61cadafe581534ad1fc9084a"), 
+    "nazwa" : "Ohio", 
+    "skrot" : "OH", 
+    "powierzchnia" : 116.1, 
+    "ludnosc": 11.478,
+	"stolica": ObjectId("61cad9331a903a6d62c6df94"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "The Ohio State University"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Uniwersytet Ohio",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "University of Cincinnati",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(88)
+}
+{
+"_id" : ObjectId("61cadafea53d45927bc927c2"), 
+    "nazwa" : "Oklahoma", 
+    "skrot" : "OK", 
+    "powierzchnia" : 181.2, 
+    "ludnosc": 3.579,
+	"stolica": ObjectId("61cad933bf2cea131278ebb9"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "University of Oklahoma"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Oklahoma State University",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Rose State College",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(77)
+}
+{
+"_id" : ObjectId("61cadafebd0d4c94d9117031"), 
+    "nazwa" : "Pensylwania", 
+    "skrot" : "PA", 
+    "powierzchnia" : 119.3, 
+    "ludnosc": 12.440,
+	"stolica": ObjectId("61cad933bf2cea131278ebb9"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Pennsylvania State University"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "University of Pennsylvania",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "University of Pittsburgh",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(67)
+}
+{
+"_id" : ObjectId("61cadafec47890ac5ddc9bf0"), 
+    "nazwa" : "Teksas", 
+    "skrot" : "TX", 
+    "powierzchnia" : 678.0, 
+    "ludnosc": 23.508,
+	"stolica": ObjectId("61cad9339d42747894d28fbd"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "Uniwersytet Teksański w Austin"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Texas Tech University",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Texas A&M University",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(254)
+}
+{
+"_id" : ObjectId("61cadafe6872c39f19ed9ce7"), 
+    "nazwa" : "Tennessee", 
+    "skrot" : "TN", 
+    "powierzchnia" : 109.2, 
+    "ludnosc": 6.039,
+	"stolica": ObjectId("61cad933a855b60eb3b364bc"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "University of Memphis"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "King College",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Vanderbilt University",
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "University of Tennessee",
+		},
+		{
+            "id" : NumberInt(4), 
+            "nazwa" : "Knoxville College",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(95)
+}
+{
+"_id" : ObjectId("61cadafe887d946b24d6902a"), 
+    "nazwa" : "Wirginia", 
+    "skrot" : "VA", 
+    "powierzchnia" : 110.9, 
+    "ludnosc": 7.643,
+	"stolica": ObjectId("61cad9335d7759b555ecfc32"),
+	"uniwersytety":[
+        {
+            "id" : NumberInt(0), 
+            "nazwa" : "College of William & Mary"
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Hampden-Sydney College",
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Uniwersytet Wirginii",
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Washington and Lee University",
+		},
+		{
+            "id" : NumberInt(4), 
+            "nazwa" : "Virginia Military Institute",
+		}
+    ], 
+	"liczba hrabstw":NumberInt(95)
+}

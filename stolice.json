@@ -1,0 +1,566 @@
+{ 
+    "_id" : ObjectId("61cad9330ed1e3d24e950ece"), 
+	"nazwa":"Montgomery",
+    "burmistrz" : "Todd Strange", 
+    "populacja" : 205764, 
+	"rok powstania": 1819,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Muzeum Sztuk Pięknych",
+			"atrakcyjność":2,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Hank Williams Museum",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Montgomery Zoo",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Carolyn Blount Theatre",
+			"atrakcyjność":2,
+		},
+	]
+}
+{ 
+    "_id" : ObjectId("61cad9338f7b33398e5be36f"), 
+	"nazwa":"Phoenix",
+    "burmistrz" : "Thelda Williams", 
+    "populacja" : 1488750, 
+	"rok powstania": 1861,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Centrum Phoenix",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Phoenix Art Museum",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Arizona Science Center",
+			"atrakcyjność":5,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Wet n Wild Phoenix",
+			"atrakcyjność":3,
+		},
+	]
+}
+{ 
+    "_id" : ObjectId("61cad9337859c849a54b3e16"), 
+	"nazwa":"Little Rock",
+    "burmistrz" : "Mark Stodola", 
+    "populacja" : 193524, 
+	"rok powstania": 1821,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Strefa Handlu Zagranicznego",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Arkansas Arts Center",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Ratusz miejski",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "William J. Clinton Presidential Center ",
+			"atrakcyjność":4,
+		},
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933faa1790303ef4ec2"), 
+	"nazwa":"Tallahassee",
+    "burmistrz" : "John E. Dailey", 
+    "populacja" : 193551, 
+	"rok powstania": 1824,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Tallahassee Scavenger Hunt",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "St. Marks National Wildlife Refuge",
+			"atrakcyjność":5,
+		},
+	]
+}
+{ 
+    "_id" : ObjectId("61cad9336dd0979abf306d21"), 
+	"nazwa":"Honolulu",
+    "burmistrz" : "Kirk Caldwell", 
+    "populacja" : 343302, 
+	"rok powstania": 1907,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "plaża Waikīkī",
+			"atrakcyjność":5,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Pearl Harbor",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Diamond Head",
+			"atrakcyjność":5,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Pałac Iolani",
+			"atrakcyjność":5,
+		},
+		{
+            "id" : NumberInt(4), 
+            "nazwa" : "Manoa Falls",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(5), 
+            "nazwa" : "Ho’omaluhia Botanical Garden",
+			"atrakcyjność":4,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933d7fddbd9d717682a"), 
+	"nazwa":"Springfield",
+    "burmistrz" : "Jim Langfelder", 
+    "populacja" : 114694, 
+	"rok powstania": 1821,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "MassMutual Center",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Eastfield Mall",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Connecticut River Walk Park",
+			"atrakcyjność":2,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933d1f215ebbcbd097e"), 
+	"nazwa":"Indianapolis",
+    "burmistrz" : "Joe Hogsett", 
+    "populacja" : 807584, 
+	"rok powstania": 1821,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : " Museum of Arts Indianapolis",
+			"atrakcyjność":3,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Indianapolis Motor Speedway",
+			"atrakcyjność":1,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Park Eagle Creek",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Park stanowy White River",
+			"atrakcyjność":3,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933b9e98a8eeee27ab8"), 
+	"nazwa":"Sacramento",
+    "burmistrz" : "Darrell Steinberg", 
+    "populacja" : 470956, 
+	"rok powstania": 1848,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Old Sacramento",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Sacramento History Museum",
+			"atrakcyjność":5,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "California State Railroad Museum",
+			"atrakcyjność":5,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Crocker Museum of Art",
+			"atrakcyjność":5,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad93311f3bfa7c51942ce"), 
+	"nazwa":"Columbia",
+    "burmistrz" : "Steve Benjamin", 
+    "populacja" : 131674, 
+	"rok powstania": 1854,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Riverbanks Zoo",
+			"atrakcyjność":3,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Colonial Life Arena",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "South Carolina State Museum",
+			"atrakcyjność":2,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Williams-Brice Stadium",
+			"atrakcyjność":3,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933cb9b613a683182d2"), 
+	"nazwa":"Boston",
+    "burmistrz" : "Michelle Wu", 
+    "populacja" : 675647, 
+	"rok powstania": 1630,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Prudential Tower",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Institute of Contemporary Art Boston",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Museum of Science",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Oceanarium New England Aquarium",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(4), 
+            "nazwa" : "Boston Common",
+			"atrakcyjność":4,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933a42fbef59b25f310"), 
+	"nazwa":"Lansing",
+    "burmistrz" : "Andy Schor", 
+    "populacja" : 114297, 
+	"rok powstania": 1835,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Potter Park Zoo",
+			"atrakcyjność":3,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Michigan State Capitol",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Impression 5 Science Center",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Hawk Island Park",
+			"atrakcyjność":3,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933dea65998761a89c7"), 
+	"nazwa":"Carson City",
+    "burmistrz" : "Bob Crowell", 
+    "populacja" : 55274, 
+	"rok powstania": 1858,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Muzeum Stanowe Nevady",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Stanowe Muzeum Kolejnictwa",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Park Stanowy Jezioro Washoe",
+			"atrakcyjność":4,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad93383729036052d26d0"), 
+	"nazwa":"Trenton",
+    "burmistrz" : "Eric Jackson", 
+    "populacja" : 84913, 
+	"rok powstania": 1792,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "New Jersey State Museum",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Old Barracks Museum",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Grounds For Sculpture",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Trenton City Museum/ Ellarslie Museum",
+			"atrakcyjność":4,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933ad7345aaabc76e48"), 
+	"nazwa":"Albany",
+    "burmistrz" : "Gerald Jennings", 
+    "populacja" : 97856, 
+	"rok powstania": 1614,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "The Blue Eye",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Plac Skanderbega",
+			"atrakcyjność":2,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Narodowe Muzeum Historyczne",
+			"atrakcyjność":2,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Dajti",
+			"atrakcyjność":2,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad9331a903a6d62c6df94"), 
+	"nazwa":"Columbus",
+    "burmistrz" : "Andrew Ginther ", 
+    "populacja" : 902073, 
+	"rok powstania": 1834 ,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Ohio Stadium",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Jerome Schottenstein Center",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Ohio Statehouse",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Nationwide Arena",
+			"atrakcyjność":3,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933bf2cea131278ebb9"), 
+	"nazwa":"Oklahoma City",
+    "burmistrz" : "David Holt", 
+    "populacja" : 643648, 
+	"rok powstania": 1889,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "White Water Bay",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Frontier City",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Remington Park",
+			"atrakcyjność":2,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Myriad Botanical Gardens",
+			"atrakcyjność":3,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad9339d42747894d28fbd"), 
+	"nazwa":"Austin",
+    "burmistrz" : "Steve Adler", 
+    "populacja" : 979263, 
+	"rok powstania": 1835,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Texas Capitol",
+			"atrakcyjność":4,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Zilker Park",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Blanton Museum of Art",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Bullock Texas State History Museum",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(4), 
+            "nazwa" : "McKinney Falls State Park",
+			"atrakcyjność":4,
+		},
+		{
+            "id" : NumberInt(5), 
+            "nazwa" : "Lady Bird Lake",
+			"atrakcyjność":4,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad933a855b60eb3b364bc"), 
+	"nazwa":"Nashville",
+    "burmistrz" : "John Cooper", 
+    "populacja" : 670820, 
+	"rok powstania": 1779,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Country Music Hall of Fame and Museum",
+			"atrakcyjność":5,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Grand Ole Opry",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Gaylord Opryland Resort & Convention Center",
+			"atrakcyjność":2,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "Ryman Auditorium",
+			"atrakcyjność":5,
+		},
+		{
+            "id" : NumberInt(4), 
+            "nazwa" : "Andrew Jackson’s Hermitage",
+			"atrakcyjność":5,
+		},
+		{
+            "id" : NumberInt(5), 
+            "nazwa" : "Frist Art Museum",
+			"atrakcyjność":1,
+		}
+	]
+}
+{ 
+    "_id" : ObjectId("61cad9335d7759b555ecfc32"), 
+	"nazwa":"Richmond",
+    "burmistrz" : "Levar Stoney", 
+    "populacja" : 230436, 
+	"rok powstania": 1607,
+    "obiekty kulturalne":[
+	{
+            "id" : NumberInt(0), 
+            "nazwa" : "Virginia Museum of Fine Arts",
+			"atrakcyjność":3,
+        }, 
+        {
+            "id" : NumberInt(1), 
+            "nazwa" : "Lewis Ginter Botanical Garden",
+			"atrakcyjność":5,
+		},
+		{
+            "id" : NumberInt(2), 
+            "nazwa" : "Maymont",
+			"atrakcyjność":3,
+		},
+		{
+            "id" : NumberInt(3), 
+            "nazwa" : "The Poe Museum",
+			"atrakcyjność":4,
+		}
+	]
+}

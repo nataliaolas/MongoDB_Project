@@ -1,0 +1,64 @@
+{
+  "$jsonSchema" : {
+	"title": "Root", 
+	"type": "object",
+	"required": [
+		"_id",
+		"nazwa",
+	],
+	"properties": {
+		"_id": {
+			"title": "_id", 
+			"type": "string",
+			"pattern": "^.*$"
+		},
+		"nazwa": {
+			"title": "Nazwa", 
+			"type": "string",
+			"pattern": "^.*$"
+		},
+		"burmistrz": {
+			"title": "Burmistrz", 
+			"type": "string",
+			"pattern": "^.*$"
+		},
+		"populacja": {
+			"title": "Populacja", 
+			"bsonType": "int",
+		},
+		"rok powstania": {
+			"title": "Rok powstania", 
+			"bsonType": "int",
+		},
+		"obiekty kulturalne": {
+			"title": "Obiekty kulturalne", 
+			"type": "array",
+			"items":{
+				"title": "Items", 
+				"type": "object",
+				"required": [
+					"id",
+					"nazwa",
+				],
+				"properties": {
+					"id": {
+						"title": "Id", 
+						"bsonType": "int",
+					},
+					"nazwa": {
+						"title": "Nazwa", 
+						"type": "string",
+
+						"pattern": "^.*$"
+					},
+					"atrakcyjność": {
+						"title": "Atrakcyjność", 
+						"bsonType": "int",
+					}
+				}
+			}
+        }
+
+		}
+	}
+}

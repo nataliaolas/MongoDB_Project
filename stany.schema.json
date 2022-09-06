@@ -1,0 +1,77 @@
+{
+  "$jsonSchema" : {
+	"title": "Root", 
+	"type": "object",
+	"required": [
+		"_id",
+		"nazwa",
+		"skrot",
+	],
+	"properties": {
+		"_id": {
+			"title": "_id", 
+			"type": "string",
+			"pattern": "^.*$"
+		},
+		"nazwa": {
+			"title": "Nazwa", 
+			"type": "string",
+            	"minLength":1,
+			"pattern": "^.*$",
+            "description": "must be a string and is required"
+              
+		},
+		"skrot": {
+			"title": "Skrot", 
+			"type": "string",
+            	"minLength":1,
+			"pattern": "^.*$",
+            "description": "must be a string and is required" 
+		},
+		"powierzchnia": {
+			"title": "Powierzchnia", 
+			"type": "number",
+            "description": "must be a number" 
+		},
+		"ludnosc": {
+			"title": "Ludnosc", 
+			"type": "number",
+            "description": "must be a number" 
+		},
+		"stolica": {
+			"title": "Stolica", 
+			"type": "string",
+			"pattern": "^.*$",
+            "description": "must be a string" 
+		},
+		"uniwersytety": {
+			"title": "Uniwersytety", 
+			"type": "array",
+			"items":{
+				"title": "Items", 
+				"type": "object",
+				"required": [
+					"id",
+					"nazwa"
+				],
+				"properties": {
+					"id": {
+						"title": "Id", 
+						"bsonType": "int",
+					},
+					"nazwa": {
+						"title": "Nazwa", 
+						"type": "string",
+						"pattern": "^.*$"
+					}
+				}
+			}
+
+		},
+		"liczba hrabstw": {
+			"title": "Liczba hrabstw", 
+			"bsonType": "int",
+		}
+	}
+  }
+}
